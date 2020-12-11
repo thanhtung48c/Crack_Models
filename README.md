@@ -2,7 +2,7 @@
 
 ###### tags: `concrete, cracks, CNN, drones`
 
-> This is my first repository for my research. :male-student:
+> This is my first repository for my research.
 
 ## :memo: The procedures are following:
 
